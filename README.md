@@ -17,7 +17,7 @@ Please visit http://micropython.org/help/ for further help.
 To run the program, flash files onto Microcontroller and start up the boot sequence.
 
 | Files | Description |
------------------------
+|-------|-------------|
 | boot | Initiate boot sequence |
 | controller | A class for a motor controller that enables a user to ser a proportional control gain kp and a setPoint for the duty cycle |
 | cotask | A class that runs cooperatively scheduled tasks. A scheduling algorithm is chosen by the user |
